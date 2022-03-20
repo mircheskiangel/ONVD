@@ -1,0 +1,39 @@
+.margin{
+    margin-left: 195px;
+    margin-right: 195px;
+    text-size: 12
+}
+.center{
+    text-align: center;
+}
+.list{
+       list-style-type: upper-roman;
+}
+.first{
+    color:deepskyblue;
+}
+.second{
+    color:green;
+}
+.third{
+    color:yellow;
+}
+.fourth{
+    color: purple;
+}
+.html{
+    margin-left: 100px;
+}
+.head{
+    margin-left: 150px;
+}
+.text{
+    margin-left: 200px;
+}
+.body{
+    margin-left: 150px;
+}
+.border {
+    border-left: 10px;
+    border-right: 10111px;
+}
