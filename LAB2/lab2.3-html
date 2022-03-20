@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="mk" class="margins">
+<head>
+    <meta charset="UTF-8">
+    <title>Некои од исфрлените тагови во HTML 5</title>
+    <link rel="stylesheet" href="Lab2.2.css">
+</head>
+<body>
+<h1>Некои од исфрлените тагови во HTML 5</h1>
+<hr>
+<dl>
+    <dt> a. &lt<b>applet</b>&gt</dt>
+    <dd class="unlisted">
+        <li>Specifies an applet</li>
+    </dd>
+    <dt> b. &lt<b>basefont</b>&gt</dt>
+    <dd class="unlisted">
+        <li>Specifies a base font</li>
+    </dd>
+    <dt> c. &lt<b>center</b>&gt</dt>
+    <dd class="unlisted">
+        <li>Specifies centered text</li>
+    </dd>
+    <dt> d. &lt<b>dir</b>&gt</dt>
+    <dd class="unlisted">
+        <li>Specifies a directory list</li>
+    </dd>
+    <br>
+.<br>
+.<br>
+.<br>
+    <br>
+    <br>
+    <dt> g. &lt<b>plaintex</b>&gt</dt>
+    <dd class="unlisted">
+        <li>Specifies plaintext</li>
+    </dd>
+    <dt> h. &lt<b>strike</b>&gt</dt>
+    <dd class="unlisted">
+        <li>Specifies strikethrough text</li>
+    </dd>
+    <dt> i. &lt<b>u</b>&gt</dt>
+    <dd class="unlisted">
+        <li>Specifies underlined text</li>
+    </dd>
+    <dt> j. &lt<b>xmp</b>&gt</dt>
+    <dd class="unlisted">
+        <li>Specifies preformatted text</li>
+    </dd>
+</dl>
+<a href="Lab2.html">Назад на прва страна</a>
+<p class="center">Сите права се задржани. &copy ФИНКИ Скопје, Македонија</p>
+</body>
+</html>
