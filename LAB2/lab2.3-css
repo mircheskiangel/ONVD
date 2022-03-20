@@ -1,0 +1,10 @@
+.center{
+    text-align: center;
+}
+.unlisted{
+    list-style-type: circle;
+}
+.margins{
+    margin-left:200px;
+    margin-right:200px;
+}
