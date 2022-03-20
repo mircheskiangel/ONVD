@@ -1,0 +1,10 @@
+.center{
+    text-align: center;
+}
+.last{
+    background-color: yellow;
+    color: black;
+}
+.red{
+    color: red;
+}
