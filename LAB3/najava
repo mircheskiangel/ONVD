@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Најава</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class ="content">
+    <div class ="menu">
+        <div class ="bar">
+            <a href="index.html" class = "links">Дома</a>
+            <a href ="servisi.html" class = "links">Сервиси</a>
+            <a href ="zanas.html" class="links">За нас</a>
+            <a href="kontakt.html" class = "links">Контакт</a>
+            <a href ="najava.html" class = "links">Најава</a>
+        </div>
+    </div>
+    <img src="img/leaf.png" alt="leaf" class="leaf">
+<div style="height: 420px">
+    <div class="leftText">
+        <h1 style="font-size: 26px;">Најава</h1>
+        <u>Оваа опција моментално не е достапна.</u>
+        <p>
+            Доколку сакате да контактирате со нас информации можете да најдете во
+            табот <a id="yellow-bg" href="kontakt.html">Контакт</a>.
+        </p>
+    </div>
+    <div class="imgRight">
+        <img src="img/slika5.jpg" alt="img5" width="400px" height="270px" />
+    </div>
+</div>
+<div class="footer">
+    <p>&copy;Веб Дизајн</p>
+</div>
+</body>
+</html>
