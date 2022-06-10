@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header h1{
+    color: black;
+    padding-left: 60px;
+    padding-top: 10px;
+}
+header span{
+    color: green;
+}
+.logo{
+    text-decoration: none;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 25px;
+    box-sizing: border-box;
+    align-items: center;
+}
+header nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 60px 0 0;
+}
+header nav ul li a{
+    color: grey;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+}
+header nav ul li a:hover {
+background-color: darkslateblue;padding: 10px;
+}
+header nav ul li a:active{
+    color: white;
+}
+
+.second-section{
+    padding-top: 100px;
+    position: absolute;
+    height: 100%;
+    font-family: sans-serif;
+    background-color: #00ff99;
+}
+table{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+td,th{
+    padding: 2px;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr{
+    text-align: center;
+}
+h3{
+    padding: 20px;
+    text-align: center;
+}
+.content-contact{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    width: 90%;
+    background: #ebe7e7;
+    padding: 20px;
+}
+.content1{
+    flex: 50%;
+    justify-content: space-around;
+}
+.button{
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px;
+    border: none;
+    width: 50%;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17px;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+input[type=date], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+#button{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.content{
+    background-color: #00ff99;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.content-info{
+    background-color: #00ff99;
+}
+.frame{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    width: 90%;
+    background: lightgray;
+    padding: 25px;
+}
+iframe{
+    width: 100%;
+    height: 500px;
+}
+.content-info{
+    background-color: #00ff99;
+}
